@@ -1,0 +1,10 @@
+{
+"name": "NoMineshaft",
+"version_number": "1.1.0",
+"website_url": "https://github.com/Mishelin69/NoMineshaft",
+"description": "Works with vanilla and LethalLevelLoader. Santa removes mineshaft interior from the game as a gift for you.",
+"dependencies": [
+"BepInEx-BepInExPack-5.4.2100",
+"BMX-LobbyCompatibility-1.0.1"
+]
+}
